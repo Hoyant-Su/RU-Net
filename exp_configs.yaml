@@ -1,0 +1,19 @@
+# config.yaml
+model:
+  "uniformer_base_IL"
+exp:
+  #"BCLM_CRLM"  
+  "BCLM_PLC_HHM"
+  
+date: 
+  #"0918"
+  "0915"
+
+fold_index: 2
+
+fold_name:  
+  #"5-fold_0918"
+  "5-fold_0915"
+
+feature_fusion: True
+
