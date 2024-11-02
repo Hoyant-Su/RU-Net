@@ -4,7 +4,7 @@
 
 First, clone the repository locally:
 ```
-$ $ git clone https://github.com/LMMMEng/LLD-MMRI2023.git
+$ git clone https://github.com/Hoyant-Su/RU-Net.git
 $ cd RU-net
 ```
 Dependencies are listed as follows:
